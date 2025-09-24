@@ -1,4 +1,4 @@
-# Bond Index Replication — US Corporate Bond Index
+# Dynamic Bond Index Replication 
 
 **Replicating Bloomberg’s US Corporate Bond Index** using the TRACE transaction dataset.  
 This project constructs investable portfolios of **50–100 bonds** out of ~**6,000** investable bonds using **XGBoost** and **Kalman Filters**, and evaluates out-of-sample tracking performance.
