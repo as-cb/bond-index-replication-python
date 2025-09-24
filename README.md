@@ -6,8 +6,8 @@ This project constructs investable portfolios of **50–100 bonds** out of ~**6,
 ---
 
 ## Key results
-- **XGBoost**: Out-of-sample (OOS) tracking error = **2.01%**  
-- **Kalman Filter**: Out-of-sample (OOS) tracking error = **2.60%**
+- **XGBoost**: Out-of-sample (OOS) tracking error = **2.01%** // OOS benchmark correlation = **0.808**  
+- **Kalman Filter**: Out-of-sample (OOS) tracking error = **2.60%** // OOS benchmark correlation = **0.935**
 
 ---
 
